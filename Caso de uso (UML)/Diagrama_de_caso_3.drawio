@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sistema 2 - Personaje y Enemigo" id="diagrama2b">
+    <mxGraphModel dx="1372" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="760" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingLeft=8;spacingTop=8;fillColor=none;fontStyle=1" value="Panel de administración" vertex="1">
+          <mxGeometry height="1060" width="620" x="430" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-72" parent="1" style="shape=umlActor;whiteSpace=wrap;html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;" value="Administrador" vertex="1">
+          <mxGeometry height="80" width="40" x="300" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="N°_partida" vertex="1">
+          <mxGeometry height="56" width="150" x="490" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-74" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="iniciar cuenta" vertex="1">
+          <mxGeometry height="56" width="170" x="490" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-75" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="contraseña" vertex="1">
+          <mxGeometry height="56" width="150" x="490" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-76" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar cuentas" vertex="1">
+          <mxGeometry height="56" width="190" x="480" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-77" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Moderar partidas" vertex="1">
+          <mxGeometry height="56" width="190" x="480" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-78" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Configurar servidor" vertex="1">
+          <mxGeometry height="56" width="190" x="480" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-79" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar objetos del juego" vertex="1">
+          <mxGeometry height="56" width="220" x="470" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-80" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar eventos" vertex="1">
+          <mxGeometry height="56" width="190" x="480" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-81" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Balancear economía del juego" vertex="1">
+          <mxGeometry height="56" width="230" x="465" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-82" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Banear jugador" vertex="1">
+          <mxGeometry height="56" width="170" x="790" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-83" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Restablecer contraseña" vertex="1">
+          <mxGeometry height="56" width="200" x="790" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-84" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Revisar reportes" vertex="1">
+          <mxGeometry height="56" width="180" x="790" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-85" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Expulsar jugador" vertex="1">
+          <mxGeometry height="56" width="180" x="790" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-86" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Agregar/editar objeto" vertex="1">
+          <mxGeometry height="56" width="200" x="790" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-87" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Programar evento" vertex="1">
+          <mxGeometry height="56" width="190" x="790" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-88" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ajustar precios" vertex="1">
+          <mxGeometry height="56" width="180" x="790" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-89" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-90" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-91" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-92" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-93" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-94" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-95" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-96" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-97" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-72" style="endArrow=none;html=1;rounded=0;" target="XwPU91EWxfR-_EGwVIBS-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-98" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-73" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-74" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-99" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-74" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-75" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-100" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-76" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-82" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-101" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-76" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-83" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-102" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-77" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-84" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-103" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-85" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-77" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-104" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-79" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-86" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-105" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-80" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-87" value="«include»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XwPU91EWxfR-_EGwVIBS-106" edge="1" parent="1" source="XwPU91EWxfR-_EGwVIBS-88" style="endArrow=open;endFill=0;dashed=1;html=1;fontSize=10;" target="XwPU91EWxfR-_EGwVIBS-81" value="«extend»">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
